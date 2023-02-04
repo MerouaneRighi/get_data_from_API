@@ -1,5 +1,5 @@
 # get_data_from_API
-get data from API with python scr
+get data from API with python script
 using the command
 #windows => cmd:
 pip install requests
